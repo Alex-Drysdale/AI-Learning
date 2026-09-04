@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "pharosyn-devtools": {
+      "command": "C:/Users/drysd/Documents/Pharosyn/First MCP/.venv/Scripts/python.exe",
+      "args": ["C:/Users/drysd/Documents/Pharosyn/First MCP/mcp_server/devtools.py"],
+      "env": {
+        "PHAROSYN_ROOT": "C:/Users/drysd/Documents/Pharosyn/First MCP"
+      }
+    }
+  }
+}
