@@ -1,0 +1,4 @@
+mcp>=2.1.1
+ollama>=0.6.2
+openai>=3.8.0
+python-dotenv>=1.0.0
