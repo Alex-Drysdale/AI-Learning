@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "hansard": {
+      "command": "C:/Users/drysd/Documents/Pharosyn/hansard_MCP/.venv/Scripts/python.exe",
+      "args": ["C:/Users/drysd/Documents/Pharosyn/hansard_MCP/mcp_server/hansard.py"]
+    }
+  }
+}
